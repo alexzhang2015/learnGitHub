@@ -1,7 +1,11 @@
 test1 version
 test2 version
 <<<<<<< HEAD
+<<<<<<< HEAD
 master branch
 =======
 branch test
 >>>>>>> branch testing
+=======
+branch test
+>>>>>>> testing
